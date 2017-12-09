@@ -13,13 +13,15 @@ def get_max_min(a):
 print(get_max_min(list))
 
 path = input("입력받은 파일의 경로: ")
-listR = list()
-def get_txt_list(path):
-    list = os.listdir()
 
-    return  list.get
-    os.get_t
+def get_txt_list(path):
+    return os.listdir()
+
+
+
 print(get_txt_list(path))
+
+
 
 
 
